@@ -9,7 +9,7 @@
          o Training Android developer  700Apps     Aug–2017 – September 2017 
 
 - 🔭 I’m currently working as Andorid Developer at [AppsSquare](https://www.facebook.com/appssquare)
-- 📫 Contact me: [Linkedin](https://www.linkedin.com/in/mostafa-gad-760a48140/)
+- 📫 Contact me: [Linkedin](https://www.linkedin.com/in/mostafa-gad-760a48140/) [WhatsApp](+20155317)
 
 # Stats 
 [![Mostafa Gad's github stats](https://github-readme-stats.vercel.app/api?username=MostafaGad1911)](https://github.com/anuraghazra/github-readme-stats)
