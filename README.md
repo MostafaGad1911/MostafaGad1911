@@ -5,7 +5,8 @@
 
 [![Updated CV](https://user-images.githubusercontent.com/25991597/125063569-eae97880-e0af-11eb-8993-6adcf92337f8.png) ](https://github.com/MostafaGad1911/MostafaGad1911/files/6790557/CV.pdf)
 
- ### Experience  <br /> <br />
+<strong>Experience</strong> 
+         <br /> <br />
          o Android Developer  [AppsSquare](https://www.facebook.com/appssquare)              July 2020 - Present   <br />
          o Android Developer [Beep](https://www.facebook.com/beeptrips)                  March 2020 – April 2020   <br />
          o Android Developer [Marvel Wall](https://www.facebook.com/marvelwall)          October 2018 – Feb 2020   <br />
