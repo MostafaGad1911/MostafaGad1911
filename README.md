@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=MostafaGad1911)
 
-[![Updated CV](https://user-images.githubusercontent.com/25991597/125062856-2172c380-e0af-11eb-98d8-8efe96e8d336.png)](https://github.com/MostafaGad1911/MostafaGad1911/files/6790557/CV.pdf)
+[![Updated CV](https://user-images.githubusercontent.com/25991597/125062856-2172c380-e0af-11eb-98d8-8efe96e8d336.png width="200" height="200") ](https://github.com/MostafaGad1911/MostafaGad1911/files/6790557/CV.pdf)
 
  Experience  <br /> <br />
          o Android Developer  [AppsSquare](https://www.facebook.com/appssquare)              July 2020 - Present   <br />
