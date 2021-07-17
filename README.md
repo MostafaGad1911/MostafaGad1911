@@ -3,7 +3,7 @@
 
 ### Updated CV
 
-[![Updated CV](https://user-images.githubusercontent.com/25991597/125064634-1fa9ff80-e0b1-11eb-94dc-4f0483435d1f.png) ](https://github.com/MostafaGad1911/MostafaGad1911/files/6790557/CV.pdf)
+[![Updated CV](https://github.com/MostafaGad1911/ExpandableTextView/files/6834751/CV.pdf)
 
 <strong>Experience</strong> 
          <br /> <br />
