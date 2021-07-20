@@ -15,8 +15,8 @@
 
 - 🔭 I’m currently working as Andorid Developer at [AppsSquare](https://www.facebook.com/appssquare)
 - 📫 Contact me: <br /> 
-              [Linkedin](https://www.linkedin.com/in/mostafa-gad-760a48140/)   📲 (+201553173145)
-              [![Email](https://img.shields.io/badge/mostafagad19111@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mostafagad19111@gmail.com)
+              [Linkedin](https://www.linkedin.com/in/mostafa-gad-760a48140/) <br />  📲 (+201553173145)     <br />
+              [![Email](https://img.shields.io/badge/Gmail-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mostafagad19111@gmail.com)
 
 # Stats 
 [![Mostafa Gad's github stats](https://github-readme-stats.vercel.app/api?username=MostafaGad1911)](https://github.com/anuraghazra/github-readme-stats)
