@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=MostafaGad1911)
 
 ### Updated CV
 
@@ -20,7 +19,7 @@
 
 # Stats 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=MostafaGad1911" alt="rodrigomartind" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=MostafaGad1911" alt="MostafaGad1911" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MostafaGad1911&show_icons=true" alt="MostafaGad1911" /></p>
 
 
