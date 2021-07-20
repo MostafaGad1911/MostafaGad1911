@@ -19,7 +19,9 @@
                [![Email](https://img.shields.io/badge/Gmail-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mostafagad19111@gmail.com)
 
 # Stats 
-[![Mostafa Gad's github stats](https://github-readme-stats.vercel.app/api?username=MostafaGad1911)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=MostafaGad1911" alt="rodrigomartind" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MostafaGad1911&show_icons=true" alt="MostafaGad1911" /></p>
 
 
 
