@@ -14,9 +14,9 @@
          o Training Android developer  [700Apps](https://www.facebook.com/700apps)     Aug–2017 – September 2017   <br />
 
 - 🔭 I’m currently working as Andorid Developer at [AppsSquare](https://www.facebook.com/appssquare)
-- 📫 Contact me: 
-              <br /> [Linkedin](https://www.linkedin.com/in/mostafa-gad-760a48140/)  📲 (+201553173145)  
-              <br />  [![Email](https://img.shields.io/badge/Gmail-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mostafagad19111@gmail.com)
+- 📫 Contact me: <br />
+               [Linkedin](https://www.linkedin.com/in/mostafa-gad-760a48140/)  &nbsp; 📲 (+201553173145)  &nbsp;
+               [![Email](https://img.shields.io/badge/Gmail-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mostafagad19111@gmail.com)
 
 # Stats 
 [![Mostafa Gad's github stats](https://github-readme-stats.vercel.app/api?username=MostafaGad1911)](https://github.com/anuraghazra/github-readme-stats)
