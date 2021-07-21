@@ -29,6 +29,7 @@ o Training Android developer  [700Apps](https://www.facebook.com/700apps)     Au
 - [LocalizedEditText - Koltin](https://github.com/MostafaGad1911/LocalizedEditText)
 - [ExpandableTextView - Koltin](https://github.com/MostafaGad1911/ExpandableTextView)
 - [GadExts - Koltin](https://github.com/MostafaGad1911/GadExts)
+- [PaymentConnections - Koltin](https://github.com/MostafaGad1911/GadExts)
 - [QuranKareem-Service - PHP](https://github.com/MostafaGad1911/QuranKareem-Service)
 - [Governments-Cities - PHP](https://github.com/MostafaGad1911/Governments-Cities)
 
