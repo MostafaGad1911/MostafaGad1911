@@ -14,7 +14,7 @@ o Training Android developer  [700Apps](https://www.facebook.com/700apps)     Au
 
 - 🔭 I’m currently working as Andorid Developer at [AppsSquare](https://www.facebook.com/appssquare)
 - 📫 Contact me: <br />
-               [Linkedin](https://www.linkedin.com/in/mostafa-gad-760a48140/)  &nbsp; 📲 (+201553173145)
+               [Linkedin](https://www.linkedin.com/in/mostafa-gad-760a48140/)  &nbsp; <br /> 📲 (+201553173145) <br />
                [Whatsapp](https://wa.me/qr/4G4KZU3YVLDLD1)
 
 
