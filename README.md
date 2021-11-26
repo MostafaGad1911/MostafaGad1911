@@ -2,7 +2,7 @@
 
 ### Updated CV
 
-[![Updated CV](https://user-images.githubusercontent.com/25991597/125063569-eae97880-e0af-11eb-8993-6adcf92337f8.png) ](https://github.com/MostafaGad1911/LocationPicker/files/7401560/CV.pdf)
+[![Updated CV](https://user-images.githubusercontent.com/25991597/125063569-eae97880-e0af-11eb-8993-6adcf92337f8.png) ](https://github.com/MostafaGad1911/LocalizedEditTextInput/files/7610540/CV.pdf)
 
 ## Experience 
 
