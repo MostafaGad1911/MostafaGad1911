@@ -27,7 +27,7 @@ o Training Android developer  [700Apps](https://www.facebook.com/700apps)     Au
 # Contibutions 
 ## Auther/Maintainer
 - [LocationPicker - Koltin](https://github.com/MostafaGad1911/LocationPicker)
-- [LocalizedEditText - Koltin](https://github.com/MostafaGad1911/LocalizedEditText)
+- [LocalizedEditText - Koltin](https://github.com/MostafaGad1911/LocalizedEditTextInput)
 - [ExpandableTextView - Koltin](https://github.com/MostafaGad1911/ExpandableTextView)
 - [GadExtension - Koltin](https://github.com/MostafaGad1911/GadExtension)
 - [PaymentConnections - Koltin](https://github.com/MostafaGad1911/PaymentConnection)
