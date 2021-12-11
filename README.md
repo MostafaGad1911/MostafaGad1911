@@ -2,7 +2,7 @@
 
 ### Updated CV
 
-[![Updated CV](https://user-images.githubusercontent.com/25991597/125063569-eae97880-e0af-11eb-8993-6adcf92337f8.png) ](https://github.com/MostafaGad1911/HelperExtensions/files/7613150/CV.pdf)
+[![Updated CV](https://user-images.githubusercontent.com/25991597/125063569-eae97880-e0af-11eb-8993-6adcf92337f8.png) ](https://github.com/MostafaGad1911/AlYusr/files/7697205/CV.pdf)
 
 ## Experience 
 
