@@ -6,7 +6,7 @@
 
 ## Experience 
 
-o Android Developer  [AppsSquare](https://appssquare.com/?fbclid=IwAR2O7Cj5r_GuyxXH9p2BHro3cAYVpmBh1jAaoL6tFOhyFetSPPHjVY_UtT8)              July 2020 - Present   <br />
+o Android Developer  [AppsSquare](https://appssquare.com/?fbclid=IwAR2O7Cj5r_GuyxXH9p2BHro3cAYVpmBh1jAaoL6tFOhyFetSPPHjVY_UtT8)              July 2020 - Aug 2022   <br />
 o Android Developer [Beep](https://www.facebook.com/beeptrips)                  March 2020 – April 2020   <br />
 o Android Developer [Marvel Wall](https://www.facebook.com/marvelwall)          October 2018 – Feb 2020   <br />
 o Training  Android developer  [Al7osam](https://www.facebook.com/Al7osamCompany)    Jun–2018 – Aug 2018  <br />
