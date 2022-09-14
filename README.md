@@ -7,7 +7,6 @@
 ## Experience 
 
 o Senior Android Developer  [AppsSquare](https://appssquare.com/?fbclid=IwAR2O7Cj5r_GuyxXH9p2BHro3cAYVpmBh1jAaoL6tFOhyFetSPPHjVY_UtT8)              Sep 2021 - Aug 2022   <br />
-
 o Android Developer  [AppsSquare](https://appssquare.com/?fbclid=IwAR2O7Cj5r_GuyxXH9p2BHro3cAYVpmBh1jAaoL6tFOhyFetSPPHjVY_UtT8)              July 2020 - Sep 2021   <br />
 o Android Developer [Beep](https://www.facebook.com/beeptrips)                  March 2020 – April 2020   <br />
 o Android Developer [Marvel Wall](https://www.facebook.com/marvelwall)          October 2018 – Feb 2020   <br />
