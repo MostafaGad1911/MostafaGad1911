@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ### Updated CV
-
-[![Updated CV](https://user-images.githubusercontent.com/25991597/125063569-eae97880-e0af-11eb-8993-6adcf92337f8.png) ](https://github.com/MostafaGad1911/MostafaGad1911/files/10385496/Mostafa.Gad_Android_Dev.pdf)
+[Mostafa_Gad_Android_Developer_CV.pdf](https://github.com/user-attachments/files/20715390/Mostafa_Gad_Android_Developer_CV.pdf)
 
 ## Experience 
 
